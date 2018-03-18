@@ -5,7 +5,7 @@ ChattERP is an assistive and augmentative communication (AAC) device for individ
 For more information on the scientific, market and user research that went into this project, check out our detailed report: https://github.com/io0/NeuroTechX-McGill-Backend/blob/master/ResearchReport.md
 
 ## Setup
-1. Hardware
+**1. Hardware**
    - Open BCI
       - 4x AA batteries 
       - Earlobe clips    
@@ -13,10 +13,11 @@ For more information on the scientific, market and user research that went into 
       - (Optional: Ultracortex)   
    - Soft measuring tape to locate 10-20 electrode positioning
 
-2. Computer & Software
+**2. Computer & Software**
    - Speller interface (LINK TO OURS)
    - EEG signal processing pipeline (LINK TO OURS)
-3. Equipment
+   
+**3. Equipment**
 
 ## Procedure
 
