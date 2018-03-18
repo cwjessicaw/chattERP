@@ -14,8 +14,8 @@ For more information on the scientific, market and user research that went into 
    - Soft measuring tape to locate 10-20 electrode positioning
 
 2. Computer & Software
-  - Speller interface (LINK TO OURS)
-  - EEG signal processing pipeline (LINK TO OURS)
+   - Speller interface (LINK TO OURS)
+   - EEG signal processing pipeline (LINK TO OURS)
 3. Equipment
 
 ## Procedure
