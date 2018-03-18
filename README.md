@@ -6,12 +6,12 @@ For more information on the scientific, market and user research that went into 
 
 ## Setup
 1. Hardware
-- Open BCI
-  - 4x AA batteries 
-  - Earlobe clips    
-  - Wet/dry electrodes (+ conductive gel for wet electrodes)   
-  - (Optional: Ultracortex)   
-- Soft measuring tape to locate 10-20 electrode positioning
+   - Open BCI
+      - 4x AA batteries 
+      - Earlobe clips    
+      - Wet/dry electrodes (+ conductive gel for wet electrodes)   
+      - (Optional: Ultracortex)   
+   - Soft measuring tape to locate 10-20 electrode positioning
 
 2. Computer & Software
   - Speller interface (LINK TO OURS)
